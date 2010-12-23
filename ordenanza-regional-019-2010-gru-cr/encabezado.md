@@ -1,0 +1,12 @@
+ORDENANZA REGIONAL
+N° 019-2010-GRU/CR.
+EL CONSEJO REGIONAL DE UCAYALI
+POR CUANTO:
+El Consejo Regional de Ucayali, de conformidad con lo previsto en los Artículos 197° y 198° de la Constitución Política del Estado, modificado por Ley de Reforma Constitucional, Capítulo XIV, Título IV sobre Descentralización – Ley N° 27680, Ley N° 27783, Ley de Bases de la Descentralización, Ley N° 27867, Ley Orgánica de Gobiernos Regionales, modificado por las Leyes N° 27902, N° 28968, Nº 29053 y demás normas complementarias, en sesión Ordinaria de fecha 21 de octubre del 2010, y;
+CONSIDERANDO:
+Que, el Artículo 191° de la Constitución Política del Estado, prescribe que los Gobiernos Regionales, gozan de autonomía política, económica y administrativa en los asuntos de su competencia.
+Que, de conformidad con lo prescrito en el Artículo 35°, literal c) de la Ley N° 27783 – Ley de Bases de la Descentralización, los Gobiernos Regionales son competentes para aprobar su organización interna y presupuesto institucional.
+Que, así mismo es atribución del Consejo Regional aprobar los documentos de gestión, Reglamento de Organización y Funciones (ROF), Manual de Organización y Funciones (MOF) y el Cuadro para Asignación de Personal (CAP) de las instituciones públicas del Gobierno Regional, en concordancia con el artículo 38° de la Ley Orgánica de Gobiernos Regionales, que establece que las Ordenanzas Regionales norman asuntos de carácter general en la organización y administración del Gobierno Regional.
+Que, mediante Decreto Supremo N° 043-2006-PCM, de fecha 26 de Julio de 2006, Aprueban lineamientos para la elaboración y aprobación del Reglamento de Organización y Funciones – ROF, por parte de las entidades de la Administración Pública, establece los requisitos mínimos para la elaboración de los instrumentos de gestión, que se ha cumplido estrictamente.
+De conformidad con las facultades conferidas por la Constitución Política del Estado, Artículo 9° y 10° de la Ley Orgánica de Gobiernos Regionales, Ley N° 27867, modificado por la Leyes N° 27902, N° 28968 y el Reglamento Interno del Consejo Regional de Ucayali, el Consejo Regional de Ucayali en Sesión Ordinaria de fecha 21 de octubre del 2010, ha aprobado la siguiente Ordenanza Regional.
+ORDENA:
