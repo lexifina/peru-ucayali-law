@@ -1,0 +1,11 @@
+Artículo Tercero.- DISPENSAR la presente Ordenanza Regional del trámite de comisiones y del trámite de lectura y aprobación del acta.
+Comuníquese al señor Presidente del Gobierno Regional de Ucayali para su promulgación.
+En Ucayali, a los veintinueve días del mes de diciembre del año dos mil diez.
+WILDER JOSÉ ALCUAYO ARGANDOÑA
+Consejero Delegado
+Consejo Regional
+POR TANTO:
+Mando se publique y cumpla.
+Dado en la Sede Central del Gobierno Regional de Ucayali, a los diez días del mes de enero del año dos mil once.
+JORGE VELÁSQUEZ PORTOCARRERO
+Presidente Regional
