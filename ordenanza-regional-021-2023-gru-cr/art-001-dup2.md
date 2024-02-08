@@ -1,0 +1,4 @@
+Artículo Primero.- DEROGAR la Ordenanza Regional N° 016-2017-GRU-CR, de fecha 11 de setiembre de 2017, y cualquier norma que se oponga a la presente Ordenanza Regional.
+Que, el literal o) del artículo 21° de la Ley N° 27867-Ley Orgánica de Gobiernos Regionales, establece que es atribución del Gobernador Regional de Ucayali promulgar Ordenanzas Regionales o hacer uso de su derecho a observarlas en el plazo de quince (15) días hábiles y ejecutar los acuerdos del Consejo Regional;
+Que, en uso de las atribuciones conferidas por los artículos 9º, 10º, 11º, 15º y 37º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales sus modificatorias y el Reglamento Interno del Consejo Regional, en Sesión Extraordinaria de fecha 21 de diciembre de 2023, se aprobó por Unanimidad la siguiente:
+ORDENANZA REGIONAL:
