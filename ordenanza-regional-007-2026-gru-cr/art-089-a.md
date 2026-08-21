@@ -1,0 +1,17 @@
+Artículo 89-A. Subgerencia Regional de Políticas Económicas e Inversiones
+Es la unidad orgánica de línea dependiente de la Gerencia Regional de Desarrollo Económico, responsable de desarrollar acciones de articulación estratégica, seguimiento, proyectos, evaluación, monitoreo y análisis técnico de políticas, planes, programas e intervenciones vinculadas al desarrollo económico regional en las materias de competencia de la Gerencia Regional de Desarrollo Económico y en coordinación con las Direcciones Regionales dependientes de la Gerencia Regional de Desarrollo Económico.”
+“Artículo 89-B. Funciones de la Subgerencia Regional de Políticas Económicas e Inversiones
+Ejerce las siguientes funciones:
+a) Proponer, formular y aplicar lineamientos, estrategias y mecanismos de articulación que fortalece a las políticas, planes y programas vinculadas al desarrollo económico regional.
+b) Realizar el seguimiento y monitoreo de las intervenciones, programas, proyectos e inversiones vinculadas al desarrollo económico regional e informar los resultados a la Gerencia Regional de Desarrollo Económico.
+c) Consolidar, sistematizar y analizar la información técnica y económica que están relacionada con competitividad, productividad, inversión y desarrollo económico regional.
+d) Coordinar y ejecutar acciones y actividades técnico-productivas con las Direcciones Regionales de Agricultura, Energía y Minas, Comercio Exterior y Turismo y de la Producción, e informar los resultados a la Gerencia Regional de Desarrollo Económico.
+e) Promover mecanismos de articulación orientados al fortalecimiento de corredores económicos, cadenas productivas y competitividad existentes en el desarrollo económico regional.
+f) Diseñar, orientar, difundir, impulsar y ejecutar la adopción de las tecnologías e innovación en las cadenas de valor priorizadas promoviendo la I+D+I+E.
+g) Participar en la coordinación interinstitucional relacionado con iniciativas de desarrollo económico y promoción de inversiones, realizado por la Subgerencia Regional de Promoción de Inversiones y de la Competitividad.
+h) Promover mecanismos que articulen en la identificación de oportunidades de inversión pública y privada vinculadas en el desarrollo económico regional.
+i) Elaborar reportes técnicos, estudios socio-económicos, líneas de base y propuestas orientadas a fortalecer las políticas e intervenciones económicas regionales.
+j) Formular, evaluar y ejecutar proyectos de inversión en las materias de competencia de la Gerencia Regional de Desarrollo Económico y en coordinación con las Direcciones Regionales de Agricultura, Energía y Minas, Comercio Exterior y Turismo, y de la Producción, conforme a la normatividad del Sistema Nacional de Programación Multianual y Gestión de Inversiones-INVIERTE.PE.
+k) Promover espacios de coordinación técnica vinculados al desarrollo económico regional con las Direcciones Regionales de Agricultura, Energía y Minas, Comercio Exterior y Turismo, y de la Producción, así como con entidades afines.
+l) Coordinar, elaborar, promover y ejecutar el plan de trabajo de la Agencia Regional de Desarrollo de Ucayali (ARD) como articuladora de iniciativas multisectoriales y multiactor del desarrollo de cadenas productivas sostenibles y territorios innovadores, en el marco de la Estrategia de Desarrollo e Innovación (EDIR) o el que haga sus veces.
+m) Otras funciones asignadas por el superior jerárquico, en el marco de la ley.”
