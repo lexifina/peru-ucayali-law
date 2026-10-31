@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-140 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+162 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -152,6 +152,28 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-016-2011-gru-cr/` | Ordenanza Regional N° 016-2011-GRU/CR: Modifican la Ordenanza Regional N° 009-2011-GRU-CR | in force 5 February 2012 |
 | `ordenanza-regional-015-2013-gru-cr/` | Ordenanza Regional N° 015-2013-GRU/CR: Aprueban modificación del Texto Único de Procedimientos Administrativos de la Dirección Regional de la Producción Ucayali | in force 18 August 2013 |
 | `ordenanza-regional-002-2013-gru-cr/` | Ordenanza Regional N° 002-2013-GRU/CR: Aprueban Reglamento de Organización y Funciones de la Unidad Ejecutora N° 005 Carretera Federico Basadre | in force 9 June 2013 |
+| `ordenanza-regional-005-2023-gru-cr/` | Ordenanza Regional N° 005-2023-GRU-CR: Declaran como Prioridad Regional la Salud Materno y Neonatal con Enfoque Intercultural | in force 18 July 2023 |
+| `ordenanza-regional-004-2021-gru-cr/` | Ordenanza Regional N° 004-2021-GRU-CR: Aprueban Cuadro para Asignación de Personal Provisional - CAP-P  de la Gerencia Territorial de Padre Abad | in force 24 July 2021 |
+| `ordenanza-regional-002-2021-gru-cr/` | Ordenanza Regional N° 002-2021-GRU-CR: Aprueban Reglamento del Proceso de Presupuesto  Participativo Basado en Resultados Multianual 2021 -2023 | in force 17 July 2021 |
+| `ordenanza-regional-003-2021-gru-cr/` | Ordenanza Regional N° 003-2021-GRU-CR: Aprueban el “Cuadro de Asignación de Personal Provisional (CAP-P) de la Gerencia Territorial de Purús” | in force 23 May 2021 |
+| `ordenanza-regional-023-2018-gru-cr/` | Ordenanza Regional N° 023-2018-GRU-CR: Crean las Unidades de Gestión Forestal y de Fauna Silvestre- UGFFS del departamento de Ucayali | in force 12 May 2021 |
+| `ordenanza-regional-001-2021-gru-cr/` | Ordenanza Regional N° 001-2021-GRU-CR: Declaran de interés y prioridad la elaboración del Plan Regional de Competitividad y Productividad de Ucayali al 2030, y … | in force 12 March 2021 |
+| `ordenanza-regional-008-2019-gru-cr/` | Ordenanza Regional N° 008-2019-GRU-CR: Establecen disposiciones para el otorgamiento de Permiso Especial de Actividad de Explotación de Minería No Metálica | in force 21 December 2019 |
+| `ordenanza-regional-014-2018-gru-cr/` | Ordenanza Regional N° 014-2018-GRU-CR: Modifican la Ordenanza N° 020-2008-GRU/CR en la parte que contiene el TUPA de la Dirección Regional de Energía y Minas | in force 20 October 2019 |
+| `ordenanza-regional-007-2018-gru-cr/` | Ordenanza Regional N° 007-2018-GRU-CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo | in force 15 June 2019 |
+| `ordenanza-regional-003-2019-gru-cr/` | Ordenanza Regional N° 003-2019-GRU-CR: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Gobierno Regional de Ucayali | in force 30 May 2019 |
+| `ordenanza-regional-018-2018-gru-cr/` | Ordenanza Regional N° 018-2018-GRU-CR: Aprueban el Reglamento de Fiscalización Ambiental Integral del Gobierno Regional de Ucayali | in force 12 April 2019 |
+| `ordenanza-regional-012-2018-gru-cr/` | Ordenanza Regional N° 012-2018-GRU-CR: Aprueban la Constitución del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Ucayali - CCONNA” | in force 16 December 2018 |
+| `ordenanza-regional-022-2017-gru-cr/` | Ordenanza Regional N° 022-2017-GRU-CR: Aprueban Texto Único de Procedimientos Administrativos -TUPA de la Sede Central del Gobierno Regional de Ucayali | in force 15 April 2018 |
+| `ordenanza-regional-008-2015-gru-cr/` | Ordenanza Regional N° 008-2015-GRU/CR: Aprueban el Plan Regional para Contribuir con la Reducción de Desnutrición Crónica Infantil y Prevención de Anemia en men… | in force 19 June 2015 |
+| `ordenanza-regional-009-2015-gru-cr/` | Ordenanza Regional N° 009-2015-GRU/CR: Aprueban inicio del proceso del Presupuesto Participativo Basado en Resultados Multianual 2016 - 2018 y su Reglamento | in force 18 June 2015 |
+| `ordenanza-regional-007-2015-gru-cr/` | Ordenanza Regional N° 007-2015-GRU/CR: Declaran el establecimiento del Desarrollo Infantil Temprano - DIT, como prioridad de la Política Pública Regional | in force 29 May 2015 |
+| `ordenanza-regional-006-2015-gru-cr/` | Ordenanza Regional N° 006-2015-GRU/CR.: Actualizan contenido del Texto Único de Procedimientos Administrativos (TUPA) de la Sede Central del Gobierno Regional d… | in force 14 May 2015 |
+| `ordenanza-regional-005-2015-gru-cr/` | Ordenanza Regional N° 005-2015-GRU/CR: Declaran en Proceso de Modernización la Gestión Pública del Gobierno Regional de Ucayali y de todas las unidades orgánica… | in force 20 April 2015 |
+| `ordenanza-regional-003-2015-gru-cr/` | Ordenanza Regional N° 003-2015-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal - CAP,  Provisional y el Cuadro Nominal de Personal - CNP de… | in force 10 April 2015 |
+| `ordenanza-regional-014-2014-gru-cr/` | Ordenanza Regional N° 014-2014-GRU-CR: Aprueban como política regional la implementación de acciones y medidas de prevención y protección para reducir los impac… | in force 30 March 2015 |
+| `ordenanza-regional-018-2013-gru-cru/` | Ordenanza Regional N° 018-2013-GRU/CRU.: Autorizan a la Dirección Regional Sectorial de Transportes y Comunicaciones del Gobierno Regional de Ucayali el otorgam… | in force 15 December 2013 |
+| `ordenanza-regional-017-2013-gru-cr/` | Ordenanza Regional N° 017-2013-GRU-CR: Declaran de necesidad y prioridad regional el manejo forestal, el control y lucha contra la tala y el comercio ilegal de … | in force 23 November 2013 |
 
 ## Source
 
