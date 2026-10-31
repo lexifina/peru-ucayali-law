@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-162 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+211 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -174,6 +174,55 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-014-2014-gru-cr/` | Ordenanza Regional N° 014-2014-GRU-CR: Aprueban como política regional la implementación de acciones y medidas de prevención y protección para reducir los impac… | in force 30 March 2015 |
 | `ordenanza-regional-018-2013-gru-cru/` | Ordenanza Regional N° 018-2013-GRU/CRU.: Autorizan a la Dirección Regional Sectorial de Transportes y Comunicaciones del Gobierno Regional de Ucayali el otorgam… | in force 15 December 2013 |
 | `ordenanza-regional-017-2013-gru-cr/` | Ordenanza Regional N° 017-2013-GRU-CR: Declaran de necesidad y prioridad regional el manejo forestal, el control y lucha contra la tala y el comercio ilegal de … | in force 23 November 2013 |
+| `ordenanza-regional-016-2013-gru-cr/` | Ordenanza Regional N° 016-2013-GRU-CR: Crean Comisión Regional Anticorrupción de Ucayali | in force 13 September 2013 |
+| `ordenanza-regional-009-2013-gru-cr/` | Ordenanza Regional N° 009-2013-GRU/CR.: Aprueban el Cuadro para Asignación de Personal - CAP y el Cuadro Nominal de Personal - CNP de la Dirección Regional Sect… | in force 22 July 2013 |
+| `ordenanza-regional-006-2013-gru-cr/` | Ordenanza Regional N° 006-2013-GRU-CR: Aprueban el Plan Regional de la Juventud de Ucayali, para el periodo 2012 - 2016 | in force 22 June 2013 |
+| `ordenanza-regional-008-2013-gru-cr/` | Ordenanza Regional N° 008-2013-GRU-CR: Aprueban Reglamento del Proceso del Presupuesto Participativo Año 2014 | in force 8 June 2013 |
+| `ordenanza-regional-004-2013-gru-cr/` | Ordenanza Regional N° 004-2013-GRU/CR: Crean el Consejo Regional de la Juventud de Ucayali | in force 9 May 2013 |
+| `ordenanza-regional-005-2013-gru-cr/` | Ordenanza Regional N° 005-2013-GRU/CR: Crean el Consejo Regional de la Mujer - Género de la Región Ucayali - CRMG - GRU | in force 6 May 2013 |
+| `ordenanza-regional-001-2013-gru-cr/` | Ordenanza Regional N° 001-2013-GRU-CR: Crean la Autoridad Regional Ambiental de Ucayali | in force 6 May 2013 |
+| `ordenanza-regional-016-2012-gru-cr/` | Ordenanza Regional N° 016-2012-GRU/CR: Aprueban modificación del Reglamento de Organización y Funciones de la Dirección Regional Sectorial de Transportes y Comu… | in force 24 January 2013 |
+| `ordenanza-regional-003-2012-gru-cr/` | Ordenanza Regional N° 003-2012-GRU/CR.: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominal de Personal de las Unidades Ejecutoras … | in force 21 January 2013 |
+| `ordenanza-regional-009-2012-gru-cr/` | Ordenanza Regional N° 009-2012-GRU/CR: Declaran feriado no laborable para los trabajadores del sector público a nivel regional, el día 25 de junio de 2013 con m… | in force 21 January 2013 |
+| `ordenanza-regional-001-2012-gru-cr/` | Ordenanza Regional N° 001-2012-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominativo de Personal de la Dirección Regional … | in force 19 January 2013 |
+| `ordenanza-regional-017-2012-gru-cr/` | Ordenanza Regional N° 017-2012-GRU/CR: Aprueban Manual de Organización y Funciones de la Dirección Regional Sectorial de la Producción de Ucayali | in force 19 January 2013 |
+| `ordenanza-regional-015-2012-gru-cr/` | Ordenanza Regional N° 015-2012-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y del Cuadro Nominal de Personal de la Dirección Regional Se… | in force 7 January 2013 |
+| `ordenanza-regional-014-2012-gru-cr/` | Ordenanza Regional N° 014-2012-GRU-CR: Aprueban Plan Regional de Cooperación Internacional No Reembolsable de la Región Ucayali 2012-2015 | in force 30 September 2012 |
+| `ordenanza-regional-012-2012-gru-cr/` | Ordenanza Regional N° 012-2012-GRU/CR: Declaran de Interés Público la elaboración del Plan Regional de Desarrollo Forestal, así como su implementación | in force 9 September 2012 |
+| `ordenanza-regional-011-2012-cr-gru/` | Ordenanza Regional N° 011-2012-CR/GRU: Crean el Sistema de Información Ambiental Regional del Departamento de Ucayali - SIAR Ucayali | in force 9 September 2012 |
+| `ordenanza-regional-010-2012-cr-gru/` | Ordenanza Regional N° 010-2012-CR/GRU: Declaran intangible para la actividad minera el cauce antiguo y actual de todos los cuerpos de agua superficial de la red… | in force 28 July 2012 |
+| `ordenanza-regional-005-2012-gru-cru/` | Ordenanza Regional N° 005-2012-GRU-CRU: Modifican la Ordenanza Regional N° 018-2010-GRU-CR, en lo relativo a la conformación del Consejo Regional de Calificació… | in force 6 July 2012 |
+| `ordenanza-regional-006-2012-gru-cr/` | Ordenanza Regional N° 006-2012-GRU/CR: Definen y aprueban como Productos Bandera de la Región Ucayali a los cultivos de cacao y palma aceitera | in force 23 June 2012 |
+| `ordenanza-regional-007-2012-gru-cr/` | Ordenanza Regional N° 007-2012-GRU/CR: Conforman la mesa REDD (Reducción de Emisiones por Deforestación y Degradación de bosques) en la Región Ucayali | in force 23 June 2012 |
+| `ordenanza-regional-004-2012-gru-cr/` | Ordenanza Regional N° 004-2012-GRU/CR.: Aprueban la adecuación de la Política Ambiental Regional a la Política Nacional del Ambiente, el Plan Regional de Acción… | in force 1 June 2012 |
+| `ordenanza-regional-002-2012-gru-cr/` | Ordenanza Regional N° 002-2012-GRU/CR: Crean la Agencia de Fomento a la Inversión Privada - AFIP de la Región Ucayali | in force 6 May 2012 |
+| `ordenanza-regional-028-2010-gru-cr/` | Ordenanza Regional N° 028-2010-GRU/CR: Aprueban Estructura Orgánica y funciones contenidas en el Reglamento de Organización y Funciones de la Dirección Regional… | in force 4 March 2012 |
+| `ordenanza-regional-011-2011-gru-cr/` | Ordenanza Regional N° 011-2011-GRU/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Sectorial de Agricultura de Ucayali | in force 11 February 2012 |
+| `ordenanza-regional-004-2011-gru-cr/` | Ordenanza Regional N° 004-2011-GRU/CR: Aprueban Cuadro para Asignación de Personal (CAP) y Cuadro Nominal de Personal (CNP) de la Dirección Regional de Vivienda… | in force 6 February 2012 |
+| `ordenanza-regional-018-2011-gru-cr/` | Ordenanza Regional N° 018-2011-GRU/CR: Renombran al Parque Industrial de Pucallpa como Parque Eco Industrial de Pucallpa | in force 5 February 2012 |
+| `ordenanza-regional-017-2011-gru-cr/` | Ordenanza Regional N° 017-2011-GRU/CR: Reconocen a la Comisión Ambiental Regional de Ucayali -  CARU y su Reglamento | in force 5 February 2012 |
+| `ordenanza-regional-026-2010-gru-cr/` | Ordenanza Regional N° 026-2010-GRU-CR: Aprueban el documento denominado "Propuesta de Diseño Curricular Diversificado con Enfoque Ambiental" | in force 15 January 2012 |
+| `ordenanza-regional-015-2011-gru-cr/` | Ordenanza Regional N° 015-2011-GRU/CR: Aprueban modificatoria al Cuadro para Asignación de Personal y al Cuadro Nominativo de Personal de la Dirección Regional … | in force 15 January 2012 |
+| `ordenanza-regional-023-2010-gru-cr/` | Ordenanza Regional N° 023-2010/GRU-CR: Dejan sin efecto la Ordenanza Regional N° 004-2009-GRU-CR y crean el Comité Consultivo Regional de Turismo de Ucayali (CC… | in force 14 October 2011 |
+| `ordenanza-regional-009-2011-gru-cr/` | Ordenanza Regional N° 009-2011-GRU/CR: Derogan la Ordenanza Regional N° 007-2011-GRU/CRU | in force 19 August 2011 |
+| `ordenanza-regional-007-2011-gru-cr/` | Ordenanza Regional N° 007-2011-GRU/CR: Facultan a las Unidades de Gestión Educativa Local de la Región a conducir la evaluación del Concurso para Nombramiento d… | in force 23 June 2011 |
+| `ordenanza-regional-006-2011-gru-cr/` | Ordenanza Regional N° 006-2011-GRU/CR: Modifican la Ordenanza Regional N° 020-2005-GRU/CR, sobre conformación del Comité Ejecutivo Regional de Exportación de Uc… | in force 10 June 2011 |
+| `ordenanza-regional-002-2011-gru-cr/` | Ordenanza Regional N° 002-2011-GRU/CR: Modifican Cuadro para Asignación de Personal y Cuadro Nominal de Personal de la Sede Central del Gobierno Regional del de… | in force 2 June 2011 |
+| `ordenanza-regional-001-2011-gru-cru/` | Ordenanza Regional N° 001-2011-GRU-CRU: Aprueban Reglamento Interno del Consejo Regional | in force 12 May 2011 |
+| `ordenanza-regional-027-2010-gru-cr/` | Ordenanza Regional N° 027-2010-GRU/CR.: Modifican el Artículo Primero de la Ordenanza Regional N° 005-2003-GR/CR | in force 14 March 2011 |
+| `ordenanza-regional-024-2010-gru-cr/` | Ordenanza Regional N° 024-2010-GRU/CR: Aprueban Texto Único de Procedimientos Administrativos de la Sede Central del Gobierno Regional de Ucayali | in force 19 February 2011 |
+| `ordenanza-regional-021-2010-gru-cr/` | Ordenanza Regional N° 021-2010-GRU/CR: Modifican la Estructura Orgánica y el Reglamento de Organización y Funciones del Gobierno Regional de Ucayali | in force 6 February 2011 |
+| `ordenanza-regional-022-2010-gru-cr/` | Ordenanza Regional N° 022-2010-GRU/CR: Crean la Red de Protección al Turista de la Región Ucayali | in force 6 February 2011 |
+| `ordenanza-regional-014-2010-gru-cr/` | Ordenanza Regional N° 014-2010-GRU/CR: Crean el Comité Regional para la Prevención, Atención y Protección del Hostigamiento Sexual en la Región Ucayali | in force 5 February 2011 |
+| `ordenanza-regional-018-2010-gru-cru/` | Ordenanza Regional N° 018-2010-GRU-CRU: Constituyen el Consejo Regional de Calificación del Gobierno Regional de Ucayali | in force 4 February 2011 |
+| `ordenanza-regional-019-2010-gru-cr/` | Ordenanza Regional N° 019-2010-GRU/CR: Aprueban modificación del Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones… | in force 23 December 2010 |
+| `ordenanza-regional-020-2010-gru-cr/` | Ordenanza Regional N° 020-2010-GRU/CR: Aprueban modificación de la Estructura Orgánica y las funciones contenidas en el Reglamento de Organización y Funciones -… | in force 23 December 2010 |
+| `ordenanza-regional-010-2010-gru-cr/` | Ordenanza Regional N° 010-2010-GRU/CR: Aprueban Cuadro para Asignación de Personal y Cuadro Nominal de Personal del Hospital Regional de Pucallpa y del Hospital… | in force 12 August 2010 |
+| `ordenanza-regional-004-2010-gru-cr/` | Ordenanza Regional N° 004-2010-GRU/CR: Aprueban el Plan Regional Contra la Violencia Hacia la Mujer 2009-2015 | in force 6 June 2010 |
+| `ordenanza-regional-002-2010-gru-cr/` | Ordenanza Regional N° 002-2010-GRU/CR: Aprueban modificación de la Estructura Orgánica y del Reglamento de Organización y Funciones de la Dirección Ejecutiva Fo… | in force 4 June 2010 |
+| `ordenanza-regional-001-2010-gru-cr/` | Ordenanza Regional N° 001-2010-GRU/CR: Modifican la Ordenanza Regional N° 014-2007-GRU/CR y encargan la conformación de la Comisión Técnica Regional de Zonifica… | in force 9 May 2010 |
+| `ordenanza-regional-018-2009-gru-cr/` | Ordenanza Regional N° 018-2009-GRU-CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las ITS y VIH/SIDA | in force 13 February 2010 |
+| `ordenanza-regional-017-2009-gru-cr/` | Ordenanza Regional N° 017-2009-GRU/CR: Aprueban disposiciones referentes al proceso para la adjudicación de plazas del Concurso de Nombramiento de Profesores 20… | in force 26 December 2009 |
 
 ## Source
 

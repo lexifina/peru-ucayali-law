@@ -2268,6 +2268,692 @@
      "sha256": "957f318e41d8edb7223627e238aa486b96801d60b9be9514e29081561aedd5ff"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2013-gru-cr",
+   "short": "Ordenanza Regional N° 016-2013-GRU-CR",
+   "title": "Ordenanza Regional N° 016-2013-GRU-CR: Crean Comisión Regional Anticorrupción de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/985992-1",
+   "versions": [
+    {
+     "from": "2013-09-13",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1v1wrJFKq8UAdYev6OHXGQ/*/985992-1.pdf",
+     "sha256": "7e48adad431383c2df9e6ee23cb4b03562e4558146e28db6daa07b91470e08a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2013-gru-cr",
+   "short": "Ordenanza Regional N° 009-2013-GRU/CR.",
+   "title": "Ordenanza Regional N° 009-2013-GRU/CR.: Aprueban el Cuadro para Asignación de Personal - CAP y el Cuadro Nominal de Personal - CNP de la Dirección Regional Sectorial de Transportes y Comunicaciones de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/964064-1",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/85FH-SCEaDY96Ku8TI2FHM/*/964064-1.pdf",
+     "sha256": "b959ac80b1bf59000bc614aacc1b39aef5fc7de854525416e262888e49d6f25e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2013-gru-cr",
+   "short": "Ordenanza Regional N° 006-2013-GRU-CR",
+   "title": "Ordenanza Regional N° 006-2013-GRU-CR: Aprueban el Plan Regional de la Juventud de Ucayali, para el periodo 2012 - 2016",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/952208-1",
+   "versions": [
+    {
+     "from": "2013-06-22",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5CuvUWdjqyA9e782Uk8Gs6/*/952208-1.pdf",
+     "sha256": "55ff7a72e55929be4f5190c72f50a0b03ae7301aa5f88a474491b627eb125229"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2013-gru-cr",
+   "short": "Ordenanza Regional N° 008-2013-GRU-CR",
+   "title": "Ordenanza Regional N° 008-2013-GRU-CR: Aprueban Reglamento del Proceso del Presupuesto Participativo Año 2014",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/946239-1",
+   "versions": [
+    {
+     "from": "2013-06-08",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8Jf35kShaEX8Wq2sXQzDob/*/946239-1.pdf",
+     "sha256": "7d55e09e38a9c2eecdc7c364f33ad9b2d39880e600390a0c38ffad0422352b24"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2013-gru-cr",
+   "short": "Ordenanza Regional N° 004-2013-GRU/CR",
+   "title": "Ordenanza Regional N° 004-2013-GRU/CR: Crean el Consejo Regional de la Juventud de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/933273-1",
+   "versions": [
+    {
+     "from": "2013-05-09",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1myopE2UaHU8Uv9ksqFYjc/*/933273-1.pdf",
+     "sha256": "f5ca4b7cd00bccbe0d9efb458e72c5f1315cb6e21d391f28c8f4d98cb67ac571"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2013-gru-cr",
+   "short": "Ordenanza Regional N° 005-2013-GRU/CR",
+   "title": "Ordenanza Regional N° 005-2013-GRU/CR: Crean el Consejo Regional de la Mujer - Género de la Región Ucayali - CRMG - GRU",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/932593-1",
+   "versions": [
+    {
+     "from": "2013-05-06",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5C-32sB-4e79SvIgnFOt6h/*/932593-1.pdf",
+     "sha256": "ecb31b28532d740c6a1df1d2eaea1baf24b622642042e2f3ada0b6fc74d8bb14"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2013-gru-cr",
+   "short": "Ordenanza Regional N° 001-2013-GRU-CR",
+   "title": "Ordenanza Regional N° 001-2013-GRU-CR: Crean la Autoridad Regional Ambiental de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/932590-1",
+   "versions": [
+    {
+     "from": "2013-05-06",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F9mSt8zE4_o8UHSIo6uOEg/*/932590-1.pdf",
+     "sha256": "0e6154f2ea51179ec930599e78233e1e9b8927d382a07b9a4de295ad48c3ba0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2012-gru-cr",
+   "short": "Ordenanza Regional N° 016-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 016-2012-GRU/CR: Aprueban modificación del Reglamento de Organización y Funciones de la Dirección Regional Sectorial de Transportes y Comunicaciones de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/891412-1",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6Y-yVFFka_Y8pGvQtY_Nk8/*/891412-1.pdf",
+     "sha256": "8571226620ea3de443e223d8bdfc2e354c3be6dc4729bb56a8f8b9fea01b823b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2012-gru-cr",
+   "short": "Ordenanza Regional N° 003-2012-GRU/CR.",
+   "title": "Ordenanza Regional N° 003-2012-GRU/CR.: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominal de Personal de las Unidades Ejecutoras de Salud de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/891190-1",
+   "versions": [
+    {
+     "from": "2013-01-21",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2bVIO_QZa2yAF6u4ZME37s/*/891190-1.pdf",
+     "sha256": "fd4a5bb5fc4a06413525d10abdfe0eabb898b309eb9705f521ead72657629547"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2012-gru-cr",
+   "short": "Ordenanza Regional N° 009-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 009-2012-GRU/CR: Declaran feriado no laborable para los trabajadores del sector público a nivel regional, el día 25 de junio de 2013 con motivo de la Fiesta de San Juan",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/891187-1",
+   "versions": [
+    {
+     "from": "2013-01-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1LQO8WUUaTmBGeyOHoSLHx/*/891187-1.pdf",
+     "sha256": "881747468cbd1de28125f67f06d055185973c6ef597b27191810a416b3630875"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2012-gru-cr",
+   "short": "Ordenanza Regional N° 001-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 001-2012-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominativo de Personal de la Dirección Regional Sectorial de la Producción de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/890211-1",
+   "versions": [
+    {
+     "from": "2013-01-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5ZOLSkDYKTUBChUbk_bDz1/*/890211-1.pdf",
+     "sha256": "f92bbda0b008e846a6488fcdcefc4bb2974b1f0c2f4cc50aa0b492dadf569758"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2012-gru-cr",
+   "short": "Ordenanza Regional N° 017-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 017-2012-GRU/CR: Aprueban Manual de Organización y Funciones de la Dirección Regional Sectorial de la Producción de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/889629-1",
+   "versions": [
+    {
+     "from": "2013-01-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6n4dcxKBadhAqbAY6DOQ0P/*/889629-1.pdf",
+     "sha256": "0f3f78657465a01eeb055e884bf1c2e60e8227beed946630a6cf3191318c7809"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2012-gru-cr",
+   "short": "Ordenanza Regional N° 015-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 015-2012-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y del Cuadro Nominal de Personal de la Dirección Regional Sectorial de Agricultura - Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/884909-1",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E0NCMUSU4Kw8Dl8AWDcD3m/*/884909-1.pdf",
+     "sha256": "343be1073a28fb89996ffd6512553356e40ac96d028c88c78fea4787e1a3536f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2012-gru-cr",
+   "short": "Ordenanza Regional N° 014-2012-GRU-CR",
+   "title": "Ordenanza Regional N° 014-2012-GRU-CR: Aprueban Plan Regional de Cooperación Internacional No Reembolsable de la Región Ucayali 2012-2015",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/847736-1",
+   "versions": [
+    {
+     "from": "2012-09-30",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BF-tt9Tqq2fA3KmmH3FSy-/*/847736-1.pdf",
+     "sha256": "56a35de2357252b5e561b2945506d10940ff8d3c737a49ff54939baeb857faaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2012-gru-cr",
+   "short": "Ordenanza Regional N° 012-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 012-2012-GRU/CR: Declaran de Interés Público la elaboración del Plan Regional de Desarrollo Forestal, así como su implementación",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/837463-1",
+   "versions": [
+    {
+     "from": "2012-09-09",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2JlzqSmwaMZ8nhyAuFHgLO/*/837463-1.pdf",
+     "sha256": "275ba3dfddc8cf30f266336addcb10b2f81614b20732c36a653e293a567ef396"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2012-cr-gru",
+   "short": "Ordenanza Regional N° 011-2012-CR/GRU",
+   "title": "Ordenanza Regional N° 011-2012-CR/GRU: Crean el Sistema de Información Ambiental Regional del Departamento de Ucayali - SIAR Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/837460-1",
+   "versions": [
+    {
+     "from": "2012-09-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9SHaIxcsa5M8c6Jq3E93Ji/*/837460-1.pdf",
+     "sha256": "c86af8cf4dd949cdcf0e9bada36199b63ee062be6d56a91b85b15d202ecbe5b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2012-cr-gru",
+   "short": "Ordenanza Regional N° 010-2012-CR/GRU",
+   "title": "Ordenanza Regional N° 010-2012-CR/GRU: Declaran intangible para la actividad minera el cauce antiguo y actual de todos los cuerpos de agua superficial de la red hidrográfica de la Región Ucayali, incluyendo sus franjas marginales y llanuras de inundación, más una franja de seguridad",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/819329-1",
+   "versions": [
+    {
+     "from": "2012-07-28",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/31ueIHNTqZUBmaFqPriQLF/*/819329-1.pdf",
+     "sha256": "2d41328f29b80c9d2c8bdb902e72b56b073c50c89a9d0dc5b68bdc15963fa8c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2012-gru-cru",
+   "short": "Ordenanza Regional N° 005-2012-GRU-CRU",
+   "title": "Ordenanza Regional N° 005-2012-GRU-CRU: Modifican la Ordenanza Regional N° 018-2010-GRU-CR, en lo relativo a la conformación del Consejo Regional de Calificación del Gobierno Regional de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/809017-1",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/B9jonIQGaj59bV5plXYsz1/*/809017-1.pdf",
+     "sha256": "54f72a645a77bc95ca526b8b280e20fdc69ab66d319714635baa53bc65bc1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2012-gru-cr",
+   "short": "Ordenanza Regional N° 006-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 006-2012-GRU/CR: Definen y aprueban como Productos Bandera de la Región Ucayali a los cultivos de cacao y palma aceitera",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/803989-1",
+   "versions": [
+    {
+     "from": "2012-06-23",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9eamwHsP4OSBaUbPQNs9ec/*/803989-1.pdf",
+     "sha256": "e79ee0ea1226ba1c584e79aa9b8121926a3523af5d364f1a07a8b45cc708af42"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2012-gru-cr",
+   "short": "Ordenanza Regional N° 007-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 007-2012-GRU/CR: Conforman la mesa REDD (Reducción de Emisiones por Deforestación y Degradación de bosques) en la Región Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/803987-1",
+   "versions": [
+    {
+     "from": "2012-06-23",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/68Y9-pd3q1P8Z0-pihAAPU/*/803987-1.pdf",
+     "sha256": "2a4c59f4fcf32f825766e3e0cd5e6424d34d48be230a2dcb04f943e542095955"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2012-gru-cr",
+   "short": "Ordenanza Regional N° 004-2012-GRU/CR.",
+   "title": "Ordenanza Regional N° 004-2012-GRU/CR.: Aprueban la adecuación de la Política Ambiental Regional a la Política Nacional del Ambiente, el Plan Regional de Acción Ambiental PRAA: Ucayali 2012 -2021 y la Agenda Ambiental Regional 2012-2013",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/794644-1",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1iWc6SkaahyBRX49BUnsi8/*/794644-1.pdf",
+     "sha256": "38fe7edd4de1928f595705101303f6de5deb9e09fb05032af8cdeb7939c4888e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2012-gru-cr",
+   "short": "Ordenanza Regional N° 002-2012-GRU/CR",
+   "title": "Ordenanza Regional N° 002-2012-GRU/CR: Crean la Agencia de Fomento a la Inversión Privada - AFIP de la Región Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/784047-1",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1jcf2ufiKOaBzk20G2APor/*/784047-1.pdf",
+     "sha256": "49225d05e53a6ebe077e7d5b9473fe31d2fcf1c565dac878abd6087a20be99db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-028-2010-gru-cr",
+   "short": "Ordenanza Regional N° 028-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 028-2010-GRU/CR: Aprueban Estructura Orgánica y funciones contenidas en el Reglamento de Organización y Funciones de la Dirección Regional Sectorial de Agricultura de Ucayali.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/758536-1",
+   "versions": [
+    {
+     "from": "2012-03-04",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7DHjmmat4_q8vmE9MQwh1R/*/758536-1.pdf",
+     "sha256": "2fd8287f0004a41d71f2a5b16d002e65804e22b5590a18e5f1565eea05f7f8c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2011-gru-cr",
+   "short": "Ordenanza Regional N° 011-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 011-2011-GRU/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Sectorial de Agricultura de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/751043-1",
+   "versions": [
+    {
+     "from": "2012-02-11",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6v3W19sDaSKB0Rs0VG1RIM/*/751043-1.pdf",
+     "sha256": "3508522b5d1a4ad5a67f6bc6590f89c6a7d381c9e2a32fee7d9ec8ab6da35ba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2011-gru-cr",
+   "short": "Ordenanza Regional N° 004-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 004-2011-GRU/CR: Aprueban Cuadro para Asignación de Personal (CAP) y Cuadro Nominal de Personal (CNP) de la Dirección Regional de Vivienda, Construcción y Sanemiento de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/749295-1",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CWA1NpgRqOCBMB1cyopQ9r/*/749295-1.pdf",
+     "sha256": "f3e87a4e81d640094dd97934bcda46c30f22f4114e6b05b3415317cd5b5d08aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-018-2011-gru-cr",
+   "short": "Ordenanza Regional N° 018-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 018-2011-GRU/CR: Renombran al Parque Industrial de Pucallpa como Parque Eco Industrial de Pucallpa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/748845-3",
+   "versions": [
+    {
+     "from": "2012-02-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DKs1qyS-qft8lmFRULK1U7/*/748845-3.pdf",
+     "sha256": "06e22e7afb54f2fb485fe5f53dc2594cfc45dd1444bf7c2dda21e7500a4828f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2011-gru-cr",
+   "short": "Ordenanza Regional N° 017-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 017-2011-GRU/CR: Reconocen a la Comisión Ambiental Regional de Ucayali -  CARU y su Reglamento",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/748845-2",
+   "versions": [
+    {
+     "from": "2012-02-05",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F20x4Co6KLwBzjqOe5VeK7/*/748845-2.pdf",
+     "sha256": "550ba40f19030786677f2a9143ec5b1a84d3cddd47275e66aff7555273b76d7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-026-2010-gru-cr",
+   "short": "Ordenanza Regional N° 026-2010-GRU-CR",
+   "title": "Ordenanza Regional N° 026-2010-GRU-CR: Aprueban el documento denominado \"Propuesta de Diseño Curricular Diversificado con Enfoque Ambiental\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/740298-1",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1Y-Mfml1aMwBAKDNbz7m2-/*/740298-1.pdf",
+     "sha256": "f4464dbc4a7ac0ad73d97bb844830a577323f81a9babf2c00c09cb7f150a83bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2011-gru-cr",
+   "short": "Ordenanza Regional N° 015-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 015-2011-GRU/CR: Aprueban modificatoria al Cuadro para Asignación de Personal y al Cuadro Nominativo de Personal de la Dirección Regional de Trabajo y Promoción del Empleo de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/740296-1",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EhIK2OJ4K7V9juLDlRC1v2/*/740296-1.pdf",
+     "sha256": "32423b969e1141c74e5f724a1f6cc343e9a33283bf38338803e122e9d97ad794"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-023-2010-gru-cr",
+   "short": "Ordenanza Regional N° 023-2010/GRU-CR",
+   "title": "Ordenanza Regional N° 023-2010/GRU-CR: Dejan sin efecto la Ordenanza Regional N° 004-2009-GRU-CR y crean el Comité Consultivo Regional de Turismo de Ucayali (CCRT)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/701882-1",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6bz9gjRy4jcAG37Z2mpGZS/*/701882-1.pdf",
+     "sha256": "fd0ce381024acd15dd049053acb12a45cef3faf8d6e05354ecb405ff6a96579f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2011-gru-cr",
+   "short": "Ordenanza Regional N° 009-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 009-2011-GRU/CR: Derogan la Ordenanza Regional N° 007-2011-GRU/CRU",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/678243-1",
+   "versions": [
+    {
+     "from": "2011-08-19",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4CkIbZvkaMN9I-q6RMuwfk/*/678243-1.pdf",
+     "sha256": "5174f706eddbc1d10607102b8c151a29b79d024cf5294674fd25c663567fccf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2011-gru-cr",
+   "short": "Ordenanza Regional N° 007-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 007-2011-GRU/CR: Facultan a las Unidades de Gestión Educativa Local de la Región a conducir la evaluación del Concurso para Nombramiento de Profesores a Nivel de la Carrera Pública Magisterial",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/655569-1",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0anAiI_mKm19hpyOFXqYmU/*/655569-1.pdf",
+     "sha256": "b92c2171540ecb861a98249f92b678b8eb6c3a1e5cf6351538138e8673178047"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2011-gru-cr",
+   "short": "Ordenanza Regional N° 006-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 006-2011-GRU/CR: Modifican la Ordenanza Regional N° 020-2005-GRU/CR, sobre conformación del Comité Ejecutivo Regional de Exportación de Ucayali - CERX Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/650020-1",
+   "versions": [
+    {
+     "from": "2011-06-10",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0iS-Vp8Cqx8BWcZlkTRc3l/*/650020-1.pdf",
+     "sha256": "032162f60a693a7d5d61caaf5620c3b712c3ce5807ec31012fb5f656b5fd7083"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2011-gru-cr",
+   "short": "Ordenanza Regional N° 002-2011-GRU/CR",
+   "title": "Ordenanza Regional N° 002-2011-GRU/CR: Modifican Cuadro para Asignación de Personal y Cuadro Nominal de Personal de la Sede Central del Gobierno Regional del departamento de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/646405-1",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/46FUGg7KqBhA0KW8b61wMH/*/646405-1.pdf",
+     "sha256": "a8fe3a52eea4603dbedccad8fefc2dc1aa99480634f5218c863b3de7e7ee3431"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2011-gru-cru",
+   "short": "Ordenanza Regional N° 001-2011-GRU-CRU",
+   "title": "Ordenanza Regional N° 001-2011-GRU-CRU: Aprueban Reglamento Interno del Consejo Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/637481-1",
+   "versions": [
+    {
+     "from": "2011-05-12",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7RVXI_hUKeY9U3KPGPVJYF/*/637481-1.pdf",
+     "sha256": "982cb0284d3ef3d5fb709adc3ec02a0135a95d10fda4742e33910de7e64f410c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-027-2010-gru-cr",
+   "short": "Ordenanza Regional N° 027-2010-GRU/CR.",
+   "title": "Ordenanza Regional N° 027-2010-GRU/CR.: Modifican el Artículo Primero de la Ordenanza Regional N° 005-2003-GR/CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/612899-1",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9mj3rcG4ahe8RF7A-FX3vp/*/612899-1.pdf",
+     "sha256": "7dadbe31904cc2b96d9b9631ba1066d012083eaed66bf582aba2458c0101df09"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-024-2010-gru-cr",
+   "short": "Ordenanza Regional N° 024-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 024-2010-GRU/CR: Aprueban Texto Único de Procedimientos Administrativos de la Sede Central del Gobierno Regional de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/603709-1",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1QFCKr-AaJaA-biR7mRchg/*/603709-2.pdf",
+     "sha256": "708038f41799d530503eaeebb10f3550aabcb56918e88686eca4cdfae872d484"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-021-2010-gru-cr",
+   "short": "Ordenanza Regional N° 021-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 021-2010-GRU/CR: Modifican la Estructura Orgánica y el Reglamento de Organización y Funciones del Gobierno Regional de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/598905-1",
+   "versions": [
+    {
+     "from": "2011-02-06",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4pWyLoLvKDQA4fGULsgukl/*/598905-1.pdf",
+     "sha256": "64ae62892fbc9fa6f42575a1e99e66c138c8720e5b520bcc1e40863cd860f975"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-022-2010-gru-cr",
+   "short": "Ordenanza Regional N° 022-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 022-2010-GRU/CR: Crean la Red de Protección al Turista de la Región Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/598903-1",
+   "versions": [
+    {
+     "from": "2011-02-06",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0aNiXCkfaTAAQqc3mmQIIE/*/598903-1.pdf",
+     "sha256": "ad74dd0a08e0c358d5995436b8d7da5e4bd0e37afc20c95ead540f0efbf54c67"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2010-gru-cr",
+   "short": "Ordenanza Regional N° 014-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 014-2010-GRU/CR: Crean el Comité Regional para la Prevención, Atención y Protección del Hostigamiento Sexual en la Región Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/598269-1",
+   "versions": [
+    {
+     "from": "2011-02-05",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0E9Y83veah78BWLf7hPUt7/*/598269-1.pdf",
+     "sha256": "1cd8e4600ea4df8b987a8c7ce4ea234bae4749bae51383c516808f8db1d95208"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-018-2010-gru-cru",
+   "short": "Ordenanza Regional N° 018-2010-GRU-CRU",
+   "title": "Ordenanza Regional N° 018-2010-GRU-CRU: Constituyen el Consejo Regional de Calificación del Gobierno Regional de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/597612-1",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/A5j-_OlDqFLA1qlAudGB78/*/597612-1.pdf",
+     "sha256": "49c2aaa9d42c33d9568ec430347c4560f8f3d6e378f4490102285fbd8efe24df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-019-2010-gru-cr",
+   "short": "Ordenanza Regional N° 019-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 019-2010-GRU/CR: Aprueban modificación del Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/580064-1",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D1k3QHjgKm_9qOciqHVigR/*/580064-1.pdf",
+     "sha256": "03b2c6e5690795c559ead29308b8704b279a519fcefc2c49cc94c41edfd5b1d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2010-gru-cr",
+   "short": "Ordenanza Regional N° 020-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 020-2010-GRU/CR: Aprueban modificación de la Estructura Orgánica y las funciones contenidas en el Reglamento de Organización y Funciones - ROF de la Dirección Ejecutiva Forestal y de Fauna Silvestre de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/580063-1",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/42oKl6NRadJArYJ7AToKwl/*/580063-1.pdf",
+     "sha256": "00e18b7a28a9a14e6d34cba5f215fa59ab80f773f3dbb5235eab47a3bf86d182"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2010-gru-cr",
+   "short": "Ordenanza Regional N° 010-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 010-2010-GRU/CR: Aprueban Cuadro para Asignación de Personal y Cuadro Nominal de Personal del Hospital Regional de Pucallpa y del Hospital de Yarinacocha",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/528666-1",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3wpfWUOvaqF8NapfF2jHEu/*/528666-1.pdf",
+     "sha256": "85292476cd0ccedd6077b73c1a90f88a5ebeb2d2ab7ef5ef3b1c2e203fbd7f2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2010-gru-cr",
+   "short": "Ordenanza Regional N° 004-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 004-2010-GRU/CR: Aprueban el Plan Regional Contra la Violencia Hacia la Mujer 2009-2015",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/502419-1",
+   "versions": [
+    {
+     "from": "2010-06-06",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AdzK9DHR4ty9gEKIb1lQIz/*/502419-1.pdf",
+     "sha256": "ee7bd83006249d6faedebaaae772b1ad6283a541707d1d81913665a5d64ff1fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2010-gru-cr",
+   "short": "Ordenanza Regional N° 002-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 002-2010-GRU/CR: Aprueban modificación de la Estructura Orgánica y del Reglamento de Organización y Funciones de la Dirección Ejecutiva Forestal y de Fauna Silvestre de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/501318-1",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F1DPhWoJ48G8vC4Dba6NMN/*/501318-1.pdf",
+     "sha256": "29b5c771fe1a0109d029110035136bd1a9094a2981a0b6ff7c920e0451a15b1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2010-gru-cr",
+   "short": "Ordenanza Regional N° 001-2010-GRU/CR",
+   "title": "Ordenanza Regional N° 001-2010-GRU/CR: Modifican la Ordenanza Regional N° 014-2007-GRU/CR y encargan la conformación de la Comisión Técnica Regional de Zonificación Ecológica Económica y Ordenamiento Territorial de la Región Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/490697-1",
+   "versions": [
+    {
+     "from": "2010-05-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3akrS22uav9BShs_niEtfU/*/490697-1.pdf",
+     "sha256": "44d8e7d10883f3db9035bd36b81ca3c5e29b18bcc7b52a1a5867a50dddca0b07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-018-2009-gru-cr",
+   "short": "Ordenanza Regional N° 018-2009-GRU-CR",
+   "title": "Ordenanza Regional N° 018-2009-GRU-CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las ITS y VIH/SIDA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/456784-1",
+   "versions": [
+    {
+     "from": "2010-02-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D3VnWJkwKNuAz07reSjb4W/*/456784-1.pdf",
+     "sha256": "73c22486f329c2f8e93bdaab4d754551a4064462ba9573c2973ba1ca53eda358"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2009-gru-cr",
+   "short": "Ordenanza Regional N° 017-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 017-2009-GRU/CR: Aprueban disposiciones referentes al proceso para la adjudicación de plazas del Concurso de Nombramiento de Profesores 2009",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/438948-1",
+   "versions": [
+    {
+     "from": "2009-12-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0wZA-UfTaA39gNVwXu1pmL/*/438948-1.pdf",
+     "sha256": "823299486374c61c17f1008f0e3a023bb45a6bfc2719117e16bb252e77aac239"
+    }
+   ]
   }
  ]
 }
