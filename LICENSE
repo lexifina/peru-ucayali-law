@@ -1,0 +1,20 @@
+The law texts in this repository are official texts of Gobierno Regional de Ucayali (Peru), taken from the Diario Oficial
+El Peruano, Normas Legales, https://busquedas.elperuano.pe (consulted 2026-10-31).
+
+They are official texts of a legislative nature. Peru's copyright law, Decreto Legislativo 822 (Ley sobre el Derecho
+de Autor), excludes them from protection:
+
+  "Artículo 9.- No son objeto de protección por el derecho de autor: [...] b. Los textos oficiales de carácter legislativo, administrativo o judicial, ni las traducciones oficiales de los mismos, sin perjuicio de la obligación de respetar los textos y citar la fuente."
+
+  (official copy: https://cdn.www.gob.pe/uploads/document/file/1669698/DL%20822.pdf.pdf?v=1613082608)
+
+El Peruano states no restriction on reuse. They are reproduced here respecting the text and citing the source:
+Fuente: Diario Oficial El Peruano, Normas Legales.
+
+Changes made by Lexifina: each ordinance was cut from El Peruano's page extract and split into one Markdown file per
+article, one paragraph per line, with spacing normalised and words broken at a line end joined; the wording was not
+changed. Neither Gobierno Regional de Ucayali nor Editora Perú endorses this repository. This repository is not an official publication;
+the binding text is the one published in El Peruano.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
