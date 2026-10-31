@@ -255,6 +255,18 @@
     "ordenanza-regional-028-2010-gru-cr"
    ],
    "sha256": "1d867d78a91c144b811da49fdde215f31861c22b31fd1d6fb9e0b6acf3ec03af"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-005-2009-gru-cr",
+    "ordenanza-regional-007-2009-gru-cr",
+    "ordenanza-regional-008-2009-gru-cr",
+    "ordenanza-regional-009-2009-gru-cr",
+    "ordenanza-regional-011-2009-gru-cr",
+    "ordenanza-regional-012-2009-gru-cr",
+    "ordenanza-regional-014-2009-gru-cr"
+   ],
+   "sha256": "e97b869957e2434768b59f515533a760ed96c705833c431b99cdebfb1c575add"
   }
  },
  "schema": 1

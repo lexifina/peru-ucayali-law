@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-211 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+218 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -223,6 +223,13 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-001-2010-gru-cr/` | Ordenanza Regional N° 001-2010-GRU/CR: Modifican la Ordenanza Regional N° 014-2007-GRU/CR y encargan la conformación de la Comisión Técnica Regional de Zonifica… | in force 9 May 2010 |
 | `ordenanza-regional-018-2009-gru-cr/` | Ordenanza Regional N° 018-2009-GRU-CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las ITS y VIH/SIDA | in force 13 February 2010 |
 | `ordenanza-regional-017-2009-gru-cr/` | Ordenanza Regional N° 017-2009-GRU/CR: Aprueban disposiciones referentes al proceso para la adjudicación de plazas del Concurso de Nombramiento de Profesores 20… | in force 26 December 2009 |
+| `ordenanza-regional-014-2009-gru-cr/` | Ordenanza Regional N° 014-2009-GRU/CR: Modifican la Ordenanza Regional N° 018-2007-GRU/CR | in force 21 September 2009 |
+| `ordenanza-regional-008-2009-gru-cr/` | Ordenanza Regional N° 008-2009-GRU/CR: Aprueban Manual de Organización y Funciones de la Sede Central del Gobierno Regional del Departamento de Ucayali | in force 24 July 2009 |
+| `ordenanza-regional-012-2009-gru-cr/` | Ordenanza Regional N° 012-2009-GRU/CR: Aprueban TUPA de la Dirección Regional de Vivienda, Construcción y Saneamiento de Ucayali | in force 4 July 2009 |
+| `ordenanza-regional-011-2009-gru-cr/` | Ordenanza Regional N° 011-2009-GRU/CR: Declaran de interés público la promoción del acceso de los adolescentes a los servicios de orientación y salud sexual y r… | in force 4 July 2009 |
+| `ordenanza-regional-007-2009-gru-cr/` | Ordenanza Regional N° 007-2009-GRU-CR: Aprueban Reglamento del Proceso General del Presupuesto Participativo Multianual | in force 25 June 2009 |
+| `ordenanza-regional-009-2009-gru-cr/` | Ordenanza Regional N° 009-2009-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominal de Personal de la Dirección Regional de … | in force 25 June 2009 |
+| `ordenanza-regional-005-2009-gru-cr/` | Ordenanza Regional N° 005-2009-GRU/CR: Declaran de interés regional el apoyo a la conformación de Mancomunidades Municipales como instrumento de apoyo y complem… | in force 30 April 2009 |
 
 ## Source
 

@@ -2954,6 +2954,104 @@
      "sha256": "823299486374c61c17f1008f0e3a023bb45a6bfc2719117e16bb252e77aac239"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2009-gru-cr",
+   "short": "Ordenanza Regional N° 014-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 014-2009-GRU/CR: Modifican la Ordenanza Regional N° 018-2007-GRU/CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/399354-1",
+   "versions": [
+    {
+     "from": "2009-09-21",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5i-eYuczq5aBT2pxtQYXJf/*/399354-1.pdf",
+     "sha256": "b6feb800e5087807506b4c3d278e7e674c4f6d6842148e0531e05d34e25862be"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2009-gru-cr",
+   "short": "Ordenanza Regional N° 008-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 008-2009-GRU/CR: Aprueban Manual de Organización y Funciones de la Sede Central del Gobierno Regional del Departamento de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/375105-1",
+   "versions": [
+    {
+     "from": "2009-07-24",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4Nhe6oQG4-PBJq8kpmaf8r/*/375105-1.pdf",
+     "sha256": "99b54c59f8fb867bb8303ec0723505a17e41bc3ee964218b4d77095006163a30"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2009-gru-cr",
+   "short": "Ordenanza Regional N° 012-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 012-2009-GRU/CR: Aprueban TUPA de la Dirección Regional de Vivienda, Construcción y Saneamiento de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/367520-1",
+   "versions": [
+    {
+     "from": "2009-07-04",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9iw6t6jG4Ex88O9sVXtmyE/*/367520-1.pdf",
+     "sha256": "86b54b4979d71602e99934b134d85740903fae69f62e25bc9bfc49bbc698bf75"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2009-gru-cr",
+   "short": "Ordenanza Regional N° 011-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 011-2009-GRU/CR: Declaran de interés público la promoción del acceso de los adolescentes a los servicios de orientación y salud sexual y reproductiva, públicos y privados, en el ámbito de la Región Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/366877-1",
+   "versions": [
+    {
+     "from": "2009-07-04",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7ZwYk_IMajtBR63sINAAaw/*/366877-1.pdf",
+     "sha256": "3961c04a9da8947ab9d05b7ba5f0e03a7867a163652f7948d2930d579336b0ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2009-gru-cr",
+   "short": "Ordenanza Regional N° 007-2009-GRU-CR",
+   "title": "Ordenanza Regional N° 007-2009-GRU-CR: Aprueban Reglamento del Proceso General del Presupuesto Participativo Multianual",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/363582-1",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8Ds4qy43KmSBiAWwqtLFUC/*/363582-1.pdf",
+     "sha256": "817856f5d2086549811198489c913cc8aac6fcd2bb7eaeb6cd6dae278ef06197"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2009-gru-cr",
+   "short": "Ordenanza Regional N° 009-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 009-2009-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominal de Personal de la Dirección Regional de Trabajo y Promoción del Empleo de Ucayali",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/363577-1",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6gUswKbjazHAjrbvw6w9SX/*/363577-1.pdf",
+     "sha256": "324583082fcdba5e2141339746a9e6141f30b128714d3f9b4555f4cd73969dcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2009-gru-cr",
+   "short": "Ordenanza Regional N° 005-2009-GRU/CR",
+   "title": "Ordenanza Regional N° 005-2009-GRU/CR: Declaran de interés regional el apoyo a la conformación de Mancomunidades Municipales como instrumento de apoyo y complemento al proceso de organización del territorio en la región",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/341293-1",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1Cv--0peaAZAyIS_tASzwW/*/341293-1.pdf",
+     "sha256": "3b4e59ea1d0dbb37e8a9000d260ca9b45a5e42b202491697aeabb7df91bc36cc"
+    }
+   ]
   }
  ]
 }

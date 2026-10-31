@@ -225,20 +225,27 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-001-2010-gru-cr` | Ordenanza Regional N° 001-2010-GRU/CR: Modifican la Ordenanza Regional N° 014-2007-GRU/CR y encargan la conformación de la Comisión Técnica Regional de Zonificación Ecológica Económica y Ordenamiento Territorial de la Región Ucayali | 1 | 2010-05-09 to 2010-05-09 |
 | `ordenanza-regional-018-2009-gru-cr` | Ordenanza Regional N° 018-2009-GRU-CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las ITS y VIH/SIDA | 1 | 2010-02-13 to 2010-02-13 |
 | `ordenanza-regional-017-2009-gru-cr` | Ordenanza Regional N° 017-2009-GRU/CR: Aprueban disposiciones referentes al proceso para la adjudicación de plazas del Concurso de Nombramiento de Profesores 2009 | 1 | 2009-12-26 to 2009-12-26 |
+| `ordenanza-regional-014-2009-gru-cr` | Ordenanza Regional N° 014-2009-GRU/CR: Modifican la Ordenanza Regional N° 018-2007-GRU/CR | 1 | 2009-09-21 to 2009-09-21 |
+| `ordenanza-regional-008-2009-gru-cr` | Ordenanza Regional N° 008-2009-GRU/CR: Aprueban Manual de Organización y Funciones de la Sede Central del Gobierno Regional del Departamento de Ucayali | 1 | 2009-07-24 to 2009-07-24 |
+| `ordenanza-regional-012-2009-gru-cr` | Ordenanza Regional N° 012-2009-GRU/CR: Aprueban TUPA de la Dirección Regional de Vivienda, Construcción y Saneamiento de Ucayali | 1 | 2009-07-04 to 2009-07-04 |
+| `ordenanza-regional-011-2009-gru-cr` | Ordenanza Regional N° 011-2009-GRU/CR: Declaran de interés público la promoción del acceso de los adolescentes a los servicios de orientación y salud sexual y reproductiva, públicos y privados, en el ámbito de la Región Ucayali | 1 | 2009-07-04 to 2009-07-04 |
+| `ordenanza-regional-007-2009-gru-cr` | Ordenanza Regional N° 007-2009-GRU-CR: Aprueban Reglamento del Proceso General del Presupuesto Participativo Multianual | 1 | 2009-06-25 to 2009-06-25 |
+| `ordenanza-regional-009-2009-gru-cr` | Ordenanza Regional N° 009-2009-GRU/CR: Aprueban modificación del Cuadro para Asignación de Personal y el Cuadro Nominal de Personal de la Dirección Regional de Trabajo y Promoción del Empleo de Ucayali | 1 | 2009-06-25 to 2009-06-25 |
+| `ordenanza-regional-005-2009-gru-cr` | Ordenanza Regional N° 005-2009-GRU/CR: Declaran de interés regional el apoyo a la conformación de Mancomunidades Municipales como instrumento de apoyo y complemento al proceso de organización del territorio en la región | 1 | 2009-04-30 to 2009-04-30 |
 
-The build made 211 commits:
+The build made 218 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 211 | first version of an act |
+| 218 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 211 laws in the record.
-- 422 tags.
+- 218 laws in the record.
+- 436 tags.
 
 ## Dates
 
@@ -250,7 +257,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6caec23bd3adbc80d3ffc59bde18c3e42711ceb7406d61d9b934640629558c87` (2886378 bytes).
+- Corpus: sha256 `58502e6be5b71c377a53575515e883a9f3b002f86337aee9102defb0463a399a` (2947075 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
